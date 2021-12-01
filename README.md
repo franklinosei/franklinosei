@@ -1,5 +1,6 @@
 ### Hi there 👋,
-#### I am Franklin, I'm from Ghana 🇬🇭, I build stuffs and sometimes, I play CoD.
+#### I'm Franklin, 
+#### I'm from Ghana 🇬🇭, I build stuffs and sometimes, I play CoD.
 
 
 👉 👨‍💻Dart(Flutter), Python(Tensorflow/Pytorch, Flask/Django), JavaScript(Node/React) ...
