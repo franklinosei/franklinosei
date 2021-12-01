@@ -1,5 +1,5 @@
 ### Hi there 👋,
-### I am Franklin, I'm from Ghana 🇬🇭, I built stuffs and sometimes, I play CoD.
+### I am Franklin, I'm from Ghana 🇬🇭, I build stuffs and sometimes, I play CoD.
 
 <!--
 **franklinosei/franklinosei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
