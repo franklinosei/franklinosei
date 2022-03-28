@@ -5,7 +5,7 @@
 
 #### 🎓 I am a final year student reading computer science at the University of Ghana
 
-#### ⚙️ Many are the tools I have worked with and programming languages I know - Flutter, Tensorflow, Pytorch, Dart, JavaScript, Python, Scikit-Learn, FastAPI, Django, #### ReactJS, Node, ExpressJS and still learning ... 🙂
+#### ⚙️ Many are the tools I have worked with and programming languages I know - Flutter, Tensorflow, Pytorch, Dart, JavaScript, Python, Scikit-Learn, FastAPI, Django, ####    ReactJS, Node, ExpressJS and still learning ... 🙂
 
 #### 👷🏽‍♂️ I am currently a software engineer focusing on building intelligent applications for mobile by integrating some level of artificial intelligence into them
 
