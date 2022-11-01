@@ -1,6 +1,6 @@
 ### Hi there 👋,
 #### I'm Franklin, 
-#### I'm from Ghana 🇬🇭, I build stuffs and sometimes, I play CoD.
+#### I'm from Ghana 🇬🇭, I build stuff and sometimes, I play CoD.
 
 
 #### 🎓 I am a final year student reading computer science at the University of Ghana
