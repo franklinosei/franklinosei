@@ -3,7 +3,7 @@
 #### I'm from Ghana 🇬🇭, I build stuff and sometimes, I play CoD.
 
 
-#### 🎓 I am a final year student reading computer science at the University of Ghana
+#### 🎓 I studied computer science at the University of Ghana
 
 #### ⚙️ Many are the tools I have worked with and programming languages I know - Flutter, Tensorflow, Pytorch, Dart, JavaScript, Python, Scikit-Learn, FastAPI, Django, ####    ReactJS, Node, ExpressJS and still learning ... 🙂
 
