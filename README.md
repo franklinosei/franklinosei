@@ -10,7 +10,7 @@
 #### 👷🏽‍♂️ I am currently a software engineer focusing on building intelligent applications for mobile by integrating some level of artificial intelligence into them
 
 
-#### 🌐 Do check out my portfolio for projects I have worked on 👉🏽 https://iamdveloper.netlify.app
+#### 🌐 Do check out my portfolio for projects I have worked on 👉🏽 https://franklinosei.onrender.com
 
 
 <!--
