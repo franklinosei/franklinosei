@@ -15,7 +15,7 @@
 
 ## A little about me
 
-I'm a Ghanaian Software Engineer who enjoys figuring out problems and building solutions that work.
+I'm a Software Engineer who enjoys figuring out problems and building solutions that work.
 
 I don't believe in being tied to a particular language, framework, or tool. **I'm tool-agnostic: I learn and choose the technology that best fits the problem at hand.** Sometimes that means using a familiar stack; other times it means learning something new, understanding its trade-offs, and putting it to work.
 
